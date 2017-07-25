@@ -31,3 +31,5 @@ Substitute ios for android if not on a Mac.
 2. PHP authorization
     Coming soon...
 
+## Reference
+Simple Ionic Login with Angular 2+ - https://devdactic.com/login-ionic-2/
