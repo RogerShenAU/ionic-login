@@ -1,4 +1,4 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+This is a starter template for [Ionic](http://ionicframework.com/docs/) projects with login.
 
 ## How to use this template
 
@@ -23,4 +23,11 @@ $ ionic cordova run ios
 ```
 
 Substitute ios for android if not on a Mac.
+
+## Two easy ways to connect to your RESTful API
+
+1. WordPress authorization 
+    Coming soon...
+2. PHP authorization
+    Coming soon...
 
