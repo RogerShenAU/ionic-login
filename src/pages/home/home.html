@@ -1,14 +1,31 @@
 <ion-header>
+
   <ion-navbar>
-    <ion-title>
-      Ionic Blank
-    </ion-title>
+    
+    <ion-title>Home</ion-title>
+
+    <ion-buttons end>
+      <button ion-button icon-left text-wrap (click)="logout()" >
+        <ion-icon name="ios-log-out"></ion-icon>  <span *ngIf="displayname">{{displayname}}</span>
+      </button>
+    </ion-buttons>
   </ion-navbar>
+
 </ion-header>
 
+
 <ion-content padding>
-  The world is your oyster.
-  <p>
-    If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will be your guide.
-  </p>
+  <ion-card>
+
+    <ion-card-header>
+      Info
+    </ion-card-header>
+
+    <ion-card-content>
+
+      This app is built on ionic 3.5 with lazy loading.
+
+    </ion-card-content>
+
+  </ion-card>
 </ion-content>
