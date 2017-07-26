@@ -28,7 +28,7 @@ export class PostProvider {
 		Option 3
 		to use PHP as server side authorisation, visit https://github.com/RogerShenAU/php-ionic-login-auth and follow the instructions
 		*/
-		// this.authUrl = 'https://www.example.com/auth/login.php'; 
+		// this.authUrl = 'https://www.example.com/php-ionic-login-auth/login.php'; 
 	}
 
 	restAuth(username,password){

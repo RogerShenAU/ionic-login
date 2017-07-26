@@ -1,4 +1,5 @@
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects with login.
+![ionic starter app screenshot](login-screenshot.png)
 
 ## How to use this template
 
@@ -27,8 +28,7 @@ Substitute ios for android if not on a Mac.
 ## Two easy ways to connect to your RESTful API
 
 1. [WordPress authorization](https://github.com/RogerShenAU/wp-ionic-login-auth)
-2. PHP authorization
-    Coming soon...
+2. [PHP authorization](https://github.com/RogerShenAU/php-ionic-login-auth)
 
 ## Reference
 Simple Ionic Login with Angular 2+ - https://devdactic.com/login-ionic-2/
