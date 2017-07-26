@@ -1,4 +1,5 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects with login.
+This is a starter template for [Ionic](http://ionicframework.com/docs/) 3.5 projects with login.  
+
 ![ionic starter app screenshot](login-screenshot.png)
 
 ## How to use this template
