@@ -26,8 +26,7 @@ Substitute ios for android if not on a Mac.
 
 ## Two easy ways to connect to your RESTful API
 
-1. WordPress authorization 
-    Coming soon...
+1. [WordPress authorization](https://github.com/RogerShenAU/wp-ionic-login-auth)
 2. PHP authorization
     Coming soon...
 
